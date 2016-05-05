@@ -1,6 +1,6 @@
 # csv-conf-v2-notes
 
-Here are my notes from [*csv,conf,v2*](http://csvconf.com/) which took place in Berlin, May 3-4 2016.
+Here are my notes from [*csv,conf,v2*](http://csvconf.com/) which took place in Berlin, May 3-4 2016. You can also check the [full speaker's list](https://github.com/csvconf/csvconf.com/blob/gh-pages/_data/speakers.csv), with URL's to the slides.
 
 
 ## Day 1: May 3, 2016
